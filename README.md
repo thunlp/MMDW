@@ -1,0 +1,2 @@
+# MMDW
+Max-margin DeepWalk
