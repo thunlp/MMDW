@@ -25,4 +25,5 @@ Code of IJCAI2016: "Max-Margin DeepWalk: Discriminative Learning of Network Repr
 
 ## Cite
   If you use the code, please cite this paper:
-  Cunchao Tu, Weicheng Zhang, Zhiyuan Liu, Maosong Sun. Max-Margin DeepWalk: Discriminative Learning of Network Representation. International Joint Conference on Artificial Intelligence (IJCAI 2016).
+  
+    Cunchao Tu, Weicheng Zhang, Zhiyuan Liu, Maosong Sun. Max-Margin DeepWalk: Discriminative Learning of Network Representation. International Joint Conference on Artificial Intelligence (IJCAI 2016).
